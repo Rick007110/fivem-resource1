@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 games {'gta5'}
 
-author 'Twisle'
-description 'EP1 Commands'
+author 'Rick007110'
+description 'Test plugin'
 version '1.0.0'
 
 -- What to run
